@@ -15,3 +15,6 @@ https://levelup.gitconnected.com/adding-katex-and-markdown-in-react-7b70694004ef
 https://github.com/iksena/math-quiz
 
 https://medium.com/@sjorsvanheuveln/displaying-math-in-reactjs-using-es6-5b0739e8447e
+
+
+https://github.com/gitname/react-gh-pages
